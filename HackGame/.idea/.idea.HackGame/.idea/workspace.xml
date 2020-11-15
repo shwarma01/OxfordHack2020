@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e2b270b-cb2f-4010-994e-ea7a585954bb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../Online Courses/Unity 2D Course/6-Laser Defender/Laser Defender/Assets/Scripts/EnemySpawner.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TreeProjectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AssaultBrush.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pickups/AddHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Online Courses/Unity 2D Course/6-Laser Defender/Laser Defender/Assets/Scripts/WaveConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerShooting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../Online Courses/Unity 2D Course/6-Laser Defender/Laser Defender/Assets/Scripts/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/HealthBar.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Guns/AssaultBrush.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/GunPickUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PaintLaser.cs" />
+        <option value="$PROJECT_DIR$/Assets/PaintShotgun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/KillCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/ActiveWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/PickUpMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/StoredAbility.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/InstaKill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/PaintNuke.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AssaultBrush.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PaintShotgun.cs" />
+        <option value="$PROJECT_DIR$/Assets/Sprites/RPTree.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TreeProjectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/AddAmmo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/InfinitePaint.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/StoredPowerup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerShooting.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickups/AddHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStats.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RPTree.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kHGkEcucsCFRZHrqgOaegQPvzc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/build/HackGame.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\sbrig\Desktop\build" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e2b270b-cb2f-4010-994e-ea7a585954bb" name="Default Changelist" comment="" />
+      <created>1605350250749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605350250749</updated>
+      <workItem from="1605350256542" duration="3394000" />
+      <workItem from="1605358423446" duration="16777000" />
+      <workItem from="1605381145163" duration="25688000" />
+      <workItem from="1605436151218" duration="15010000" />
+      <workItem from="1605462479701" duration="1328000" />
+      <workItem from="1605465194895" duration="1695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1114" y="333" key="RiderGenerateDialog" timestamp="1605375538308">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="333" key="RiderGenerateDialog/-3000.0.1714.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1605375538308" />
+    <state x="937" y="330" key="run.anything.popup" timestamp="1605367715070">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="937" y="330" key="run.anything.popup/-3000.0.1714.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1605367715070" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1605367720747">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/-3000.0.1714.1120/0.0.2560.1400@0.0.2560.1400" timestamp="1605367720747" />
+  </component>
+</project>

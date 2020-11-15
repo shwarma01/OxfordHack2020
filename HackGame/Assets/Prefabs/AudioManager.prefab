@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4846454812319650081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1986800533430448010}
+  - component: {fileID: 5853468946463843169}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1986800533430448010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4846454812319650081}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5853468946463843169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4846454812319650081}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d0fd7e7ad0e6774aba2b85d7daa396c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Clip 1
+    clip: {fileID: 8300000, guid: c87a7650f05f1d842bfed2a1d710bdc4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 2
+    clip: {fileID: 8300000, guid: ac5dd063a137a70418072e573d5f7369, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 3
+    clip: {fileID: 8300000, guid: 175d7ef7d19e79d4780ea6a0f956f2eb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 4
+    clip: {fileID: 8300000, guid: 4d881fbc5457aac4baeb9089bd17fed3, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 5
+    clip: {fileID: 8300000, guid: 94eb71f43b0ea7c489618c11eb13a265, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 6
+    clip: {fileID: 8300000, guid: 6892f7ef97ca57540b7351ae2ae76737, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 7
+    clip: {fileID: 8300000, guid: b7acf2838f3718941a5fecc98d853608, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 8
+    clip: {fileID: 8300000, guid: 0f2d2347d412a114d9b41fd86fff9b61, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 9
+    clip: {fileID: 8300000, guid: 64d6abd011664fa419f75391a0300afa, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 10
+    clip: {fileID: 8300000, guid: aa2fd0809a3cfab43a3fb6e9e7789143, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 11
+    clip: {fileID: 8300000, guid: 5bc1d157ef768d54e9b808523315e04b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 12
+    clip: {fileID: 8300000, guid: bf9507b42dd84a849b8a53fee0fa1a1e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 13
+    clip: {fileID: 8300000, guid: 7e282bfc4d347cb49b28e4c068f16530, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: Clip 14
+    clip: {fileID: 8300000, guid: 7de09ccd24b64834fa1b7d8137450215, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: death clip
+    clip: {fileID: 8300000, guid: 57af52f36ade71c41a7547782c602fe4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: menu clip
+    clip: {fileID: 8300000, guid: 03fc6aa5f3795594eaa192afeacf2502, type: 3}
+    volume: 0.48
+    pitch: 1
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: rpgFire clip
+    clip: {fileID: 8300000, guid: 0b72b1d51ce0ed44aa82ee710863f94b, type: 3}
+    volume: 0.613
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: rpgExplosion clip
+    clip: {fileID: 8300000, guid: 31deee714056e014c93f7c456558dfa7, type: 3}
+    volume: 0.325
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: whoosh3 clip
+    clip: {fileID: 8300000, guid: 679ea97385f7d0f4b901c93919334337, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: running clip
+    clip: {fileID: 8300000, guid: 07a6aebdc757b6d408c91cef4491048d, type: 3}
+    volume: 0.758
+    pitch: 1
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: horde clip
+    clip: {fileID: 8300000, guid: 0a58cb5f9ef3d5d45a99861063ce7046, type: 3}
+    volume: 0.229
+    pitch: 1
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: singleZombie clip
+    clip: {fileID: 8300000, guid: 2c3ffe077afadbb439d6ef89195643c7, type: 3}
+    volume: 0.233
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: guitarMusic clip
+    clip: {fileID: 8300000, guid: 5cabcd91f68a6f04eac5b723daf03595, type: 3}
+    volume: 0.346
+    pitch: 1
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: upbeatMusic clip
+    clip: {fileID: 8300000, guid: 369d7639e070ee34c89e892f7a9e3b0e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: pop clip
+    clip: {fileID: 8300000, guid: 8afca46e79e145546bb661d75bde5095, type: 3}
+    volume: 0.311
+    pitch: 1
+    loop: 1
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: powerUp clip
+    clip: {fileID: 8300000, guid: e33bc2f5fc160f24dbbde4d53fee0e4b, type: 3}
+    volume: 0.599
+    pitch: 1
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
+  - name: levelWin clip
+    clip: {fileID: 8300000, guid: 8b6ae2ed6add26049b5d47cd3ec870b4, type: 3}
+    volume: 0.233
+    pitch: 0.94
+    loop: 0
+    isPlaying: 0
+    source: {fileID: 0}
